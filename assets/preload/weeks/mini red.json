@@ -1,0 +1,30 @@
+{
+	"storyName": "MINI RED",
+	"hideFreeplay": false,
+	"weekBackground": "mini red",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"red-so-cool",
+			"mini red",
+			[
+				255,
+				0,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "mini red"
+}
